@@ -8,12 +8,12 @@ Follow these instructions to clone the repository and run the Flask application 
 
 ### Clone the Repository
 
-Clone this repository to your local machine using the following command:
+Clone this repository to your local machine using the following command: <br>
 git clone https://github.com/Tarunr09/Fake_News_Detection.git
 
 ### Run the Flask Application
 
-Run the Flask application using the following command:
+Run the Flask application using the following command: <br>
 python app.py
 
 This will start the Flask development server, and you should see output indicating that the server is running. By default, the application will be accessible at `http://127.0.0.1:5000/` or `http://localhost:5000/` in your web browser.
